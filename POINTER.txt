@@ -1,0 +1,2 @@
+changelog_id,ean
+none,none
