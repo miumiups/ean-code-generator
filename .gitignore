@@ -1,0 +1,36 @@
+# My temp file #
+################
+temp.py
+
+# My config file #
+##################
+config.ini
+
+# Build EXE #
+#############
+.spec
+dist
+build
+
+# All .log files #
+##################
+*.log
+
+# All .exe files #
+##################
+*.exe
+
+# All .zip files #
+#################
+*.zip
+
+# All folders #
+###############
+.idea
+__pycache__
+venv
+
+# Other files #
+##################
+temp_file.txt
+*.db
